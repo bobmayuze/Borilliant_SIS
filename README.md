@@ -9,4 +9,4 @@ $ nodemon
 ```
 Step 3
 
-visit localhost:3000 to check it out
+visit localhost:3000 to make sure it runs
